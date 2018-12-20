@@ -1,3 +1,3 @@
 # Azure DevOps - Onboarding
 
-[SignUp](https://go.microsoft.com/fwlink/?LinkId=307137)
+[Sign-up link for Azure DevOps](https://go.microsoft.com/fwlink/?LinkId=307137). 
