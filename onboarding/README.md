@@ -7,6 +7,7 @@ There are two options:
 
 ### Sign up with a personal Microsoft account.
 Go to [Sign-up link for Azure DevOps](https://go.microsoft.com/fwlink/?LinkId=307137) and use your MS Account for the registration.
+-> All users have to use their Microsoft Account.
 
 ### Sign up with an existing Azure AD
 
@@ -14,4 +15,6 @@ Go to [Sign-up link for Azure DevOps](https://go.microsoft.com/fwlink/?LinkId=30
 
 [See also](https://docs.microsoft.com/de-de/azure/devops/user-guide/sign-up-invite-teammates?view=vsts)
 
+## Add Users
+https://docs.microsoft.com/de-de/azure/devops/organizations/security/add-users-team-project?toc=%2Fazure%2Fdevops%2Fuser-guide%2Ftoc.json&bc=%2Fazure%2Fdevops%2Fbreadcrumb%2Ftoc.json&view=vsts&tabs=new-nav
 
